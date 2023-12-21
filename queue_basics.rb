@@ -1,4 +1,6 @@
-# FIFO Queue Basics
+# frozen_string_literal: true
+
+# First-In-First-Out (FIFO) Queue Basics
 
 q = Queue.new
 

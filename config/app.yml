@@ -1,4 +1,0 @@
----
-development:
-  # Change this URL with the URL of the queue you've created
-  QUEUE_URL: https://sqs.us-east-1.amazonaws.com/503315808870/soa_queue.fifo

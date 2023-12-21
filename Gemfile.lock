@@ -12,16 +12,18 @@ GEM
       aws-sdk-core (~> 3, >= 3.39.0)
       aws-sigv4 (~> 1.0)
     aws-sigv4 (1.0.3)
-    econfig (2.1.0)
+    figaro (1.2.0)
+      thor (>= 0.14.0, < 2)
     jmespath (1.4.0)
     json (2.1.0)
+    thor (1.2.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  aws-sdk-sqs (~> 1)
-  econfig
+  aws-sdk-sqs (~> 1.4)
+  figaro
   json
 
 BUNDLED WITH

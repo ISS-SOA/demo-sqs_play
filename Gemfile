@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'aws-sdk-sqs', '~> 1'
+gem 'aws-sdk-sqs', '~> 1.4'
 
-gem 'econfig'
+gem 'figaro'
 gem 'json'
